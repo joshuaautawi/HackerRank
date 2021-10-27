@@ -27,4 +27,4 @@ function timeConversion(s) {
         }
     }
     return s.slice(0,8)
-}
+}   
